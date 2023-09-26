@@ -33,12 +33,12 @@ ___
 ### Dependency installation
     pip install -r requirements.txt
 
+___
 
-### Run
-Windows
+### Run Windows
     python microsoft_account.py
 
-Linux
+### Run Windows
     python3 microsoft_account.py
 
 ## Todo:
