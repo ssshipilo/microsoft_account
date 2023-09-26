@@ -1,4 +1,4 @@
-<h1 align="center">Microsoft_accountMicrosoft account creator</h1>
+<h1 align="center">Microsoft account creator</h1>
 
 ![Microsoft Generate Account](https://github.com/ssshipilo/microsoft_account/blob/main/git/image.png)
 
@@ -28,13 +28,9 @@ ___
 ## Steps
 
 ### Copy repository
-<code>
-git init
-</code>
+<code>git init</code>
 <br />
-<code>
-git clone https://github.com/ssshipilo/microsoft_account
-</code>
+<code>git clone https://github.com/ssshipilo/microsoft_account</code>
 
 ### Dependency installation
 <code>pip install -r requirements.txt</code>
