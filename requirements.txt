@@ -1,0 +1,4 @@
+names==0.3.0
+beautifulsoup4==4.12.2
+selenium==4.13.0
+uuid==1.30
