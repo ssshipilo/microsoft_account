@@ -28,20 +28,20 @@ ___
 ## Steps
 
 ### Copy repository
-<code>git init</code>
+    git init
 <br />
-<code>git clone https://github.com/ssshipilo/microsoft_account</code>
+    git clone https://github.com/ssshipilo/microsoft_account
 
 ### Dependency installation
-<code>pip install -r requirements.txt</code>
+    pip install -r requirements.txt
 
 
 ### Run
 Windows
-<code>python microsoft_account.py</code>
+    python microsoft_account.py
 
 Linux
-<code>python3 microsoft_account.py</code>
+    python3 microsoft_account.py
 
 ## Todo:
 - [x] DONE. Write a semi-automatic creation
