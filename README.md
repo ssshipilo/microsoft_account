@@ -1,6 +1,6 @@
 <h1 align="center">Microsoft_accountMicrosoft account creator</h1>
 
-![Image alt](https://github.com/{username}/{repository}/git/image.png)
+![Microsoft Generate Account](https://github.com/ssshipilo/microsoft_account/blob/main/git/image.png)
 
 <div align="center">
   <a href="https://github.com/ssshipilo/microsoft_account/pull">
@@ -28,18 +28,24 @@ ___
 ## Steps
 
 ### Copy repository
-```git init```
-```git clone https://github.com/ssshipilo/microsoft_account```
+<code>
+git init
+</code>
+<br />
+<code>
+git clone https://github.com/ssshipilo/microsoft_account
+</code>
 
 ### Dependency installation
-```pip install -r requirements.txt```
+<code>pip install -r requirements.txt</code>
+
 
 ### Run
 Windows
-```python microsoft_account.py```
+<code>python microsoft_account.py</code>
 
 Linux
-```python3 microsoft_account.py```
+<code>python3 microsoft_account.py</code>
 
 ## Todo:
 - [x] DONE. Write a semi-automatic creation
