@@ -28,8 +28,6 @@ ___
 ## Steps
 
 ### Copy repository
-    git init
-<br />
     git clone https://github.com/ssshipilo/microsoft_account
 
 ### Dependency installation
